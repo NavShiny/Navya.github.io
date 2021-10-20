@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"
+<meta name="viewpoint" content="width=device-width, initial- scale=1.0">
+<title>Document</title>
+<link rel="stylesheet" href="sty.css">
+
+</head>
+<body>
+<header>
+<div class="user">
+<img src="photo.jpg">
+<h5 class="nm">Navyasri Chigurupati</h5>
+<p class="jb">Student</p>
+</div>
+<nav class="nv">
+<ul>
+<li><a href="#Details">Details</a></li>
+<li><a href="#Education">Education</a></li>
+<li><a href="#Technical Skills">Technical Skills</a></li>
+<li><a href="#Project">Project</a></li>
+</ul>
+</nav>
+</header>
+<section class="Details" id="Details">
+<h1 class="heading"><span>Details about me</span></h1>
+<div class="Row">
+<div class="det">
+<h3><span>Name: </span>Navyasri Chigurupati</h3>
+<h3><span>Age: </span>21</h3>
+<h3><span>Gender: </span>Female</h3>
+<h3><span>Email: </span>ch.navyasri999@gmail.com</h3>
+<h3><span>Phone_no: </span>9121984075</h3>
+</div>
+</div>
+</section>
+<section class="Education" id="Education">
+<h1 class="title"><span>Education</span></h1><br><br><br>
+<table>
+<tr>
+<th>Cource</th>
+<th>Name of the institute</th>
+<th>University</th>
+<th>Percentage</th>
+</tr>
+<tr>
+<td>S.S.C</td>
+<td>Oxford Public School</td>
+<td>Board of Secondary Education</td>
+<td>87</td>
+</tr>
+<tr>
+<td>Intermediate</td>
+<td>Sri Chaitanya Junior College</td>
+ 
+<td>Board of Intermediate Education</td>
+<td>89.7</td>
+</tr>
+<tr>
+<td>B.Tech(CSE) </td>
+<td>Malineni Perumallu Educational Society’s Group Of Institutions</td>
+<td>JNTUK</td>
+<td>7.71 (CGPA)</td>
+</tr>
+</table>
+</section>
+<br><br><br><br><br><br>
+<section class="Technical Skills" id="Technical Skills">
+<h1 class="head"><span>Technical Skills</span></h1>
+<div>
+<ul id="lis">
+<li>Java</li>
+<li>C++</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Angular</li>
+<li>Oracle</li>
+<li>MySQL</li>
+<li>Python</li>
+<li>Manual Testing</li>
+        <li>Data Structures</li>
+</ul>
+</div>
+</section>
+<section class="Project" id="Project">
+<h1 class="heading"><span>Project</span></h1>
+<div class="Row">
+<div class="det">
+<h3><span>Role: </span>Team member</h3>
+<h3><span>Title: </span>A Survey On Health Care Facilities by Cloud Computing</h3>
+<h3><span>Description: </span> This method is less prone to hacking and proposed with the best security providing agency 
+
+ 
+toll.
+
+
+Driving     of
+the filmed sequence,
+
+This mainly says that the traditional ways are more prone to hacking as they are using the simple technique as login and accessing the medical records by the patient or the doctor, what we have proposed is less prone to hacking because the for accessing the medical record of the patient is between the hospitals not directly by the patient ,we have proposed a implementable plan with the help of best security providing agency.
+
+</div>
+</section
+</div>
+ 
+</body>
+</html>
+
